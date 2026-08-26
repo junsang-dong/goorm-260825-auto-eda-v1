@@ -1,6 +1,6 @@
 # CSV EDA 자동화 에이전트
 
-![앱 실행 화면](docs/app_screenshot.png)
+![앱 실행 화면](docs/app_screenshot.jpg)
 
 CSV 파일을 업로드하면 자동으로 데이터 프로파일링 → 타겟 컬럼 추정 → 중요 변수 5~10개 랭킹 →
 시각화를 수행하고, 분석을 재현하는 실행된 Jupyter Notebook을 다운로드할 수 있는 Streamlit 앱.
